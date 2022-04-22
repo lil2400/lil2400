@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lil2400" alt="lil2400" /></a> </p>
 
-- 🌱 I’m currently learning **AI and Python**
 
 - 👨‍💻 All of my projects are available at [ilirme.me/](ilirme.me/)
 
