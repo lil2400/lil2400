@@ -4,9 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lil2400" alt="lil2400" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [ilirme.me/](ilirme.me/)
+- 👨‍💻 All of my projects are available at [ilir.meme/](ilir.meme/)
 
-- 📫 How to reach me **il.memedi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
